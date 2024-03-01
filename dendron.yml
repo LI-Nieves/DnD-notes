@@ -91,7 +91,7 @@ publishing:
     siteHierarchies:
         - root
     writeStubs: false
-    siteRootDir: docs
+    siteRootDir: docs/notes
     seo:
         title: Dendron
         description: Personal Knowledge Space
