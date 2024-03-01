@@ -27,14 +27,6 @@
       ]
     },
     {
-      "key": "bukib22whgizmqocv7vbfx9",
-      "title": "README",
-      "icon": null,
-      "hasTitleNumberOutlined": false,
-      "vaultName": "Dendron",
-      "children": []
-    },
-    {
       "key": "n00lt4skpqf5v342kyc2qwe",
       "title": "Git Commands",
       "icon": null,
@@ -55,7 +47,6 @@
     "icm96zv8sxaq1uny3mh9tg9": null,
     "2uzy8dxh1kfggon6ka8rt4h": "icm96zv8sxaq1uny3mh9tg9",
     "vsfusbieuxklz0g8b8t3c1m": "2uzy8dxh1kfggon6ka8rt4h",
-    "bukib22whgizmqocv7vbfx9": null,
     "n00lt4skpqf5v342kyc2qwe": null,
     "c1bs7wsjfbhb0zipaywqv1": null
   },
@@ -63,7 +54,6 @@
     "icm96zv8sxaq1uny3mh9tg9": "DnD",
     "2uzy8dxh1kfggon6ka8rt4h": "Dimensional Mercenary",
     "vsfusbieuxklz0g8b8t3c1m": "The Lost Mine of Phandelver",
-    "bukib22whgizmqocv7vbfx9": "README",
     "n00lt4skpqf5v342kyc2qwe": "Git Commands",
     "c1bs7wsjfbhb0zipaywqv1": "Tutorial"
   }

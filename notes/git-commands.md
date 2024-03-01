@@ -2,7 +2,7 @@
 id: n00lt4skpqf5v342kyc2qwe
 title: Git Commands
 desc: ''
-updated: 1708936573251
+updated: 1709336458728
 created: 1708936555109
 ---
 Example: Contribute to an existing repository
@@ -84,4 +84,8 @@ git branch --set-upstream-to=origin/<remote-branch> <local-branch>
 git pull
 # pushes local changes to remote branch
 git push origin HEAD:<remote-branch>
+```
+Error: `fatal: refusing to merge unrelated histories`, [source](https://stackoverflow.com/questions/45272492/git-is-refusing-to-merge-unrelated-histories-what-are-unrelated-histories)
+```bash
+git pull origin master --allow-unrelated-histories
 ```

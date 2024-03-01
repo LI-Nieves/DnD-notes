@@ -75,3 +75,6 @@
 <span class="token comment"># pushes local changes to remote branch</span>
 <span class="token function">git</span> push origin HEAD:<span class="token operator">&#x3C;</span>remote-branch<span class="token operator">></span>
 </code></pre>
+<p>Error: <code>fatal: refusing to merge unrelated histories</code>, <a href="https://stackoverflow.com/questions/45272492/git-is-refusing-to-merge-unrelated-histories-what-are-unrelated-histories">source</a></p>
+<pre class="language-bash"><code class="language-bash"><span class="token function">git</span> pull origin master --allow-unrelated-histories
+</code></pre>

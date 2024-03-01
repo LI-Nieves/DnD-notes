@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1709335306282,
-      "created": 1709335306282,
+      "updated": 1709336672043,
+      "created": 1709336672043,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -41,7 +41,6 @@
       "links": [],
       "anchors": {},
       "children": [
-        "bukib22whgizmqocv7vbfx9",
         "n00lt4skpqf5v342kyc2qwe",
         "c1bs7wsjfbhb0zipaywqv1",
         "icm96zv8sxaq1uny3mh9tg9"
@@ -335,7 +334,7 @@
       "id": "n00lt4skpqf5v342kyc2qwe",
       "title": "Git Commands",
       "desc": "",
-      "updated": 1708936573251,
+      "updated": 1709336458728,
       "created": 1708936555109,
       "custom": {},
       "fname": "git-commands",
@@ -345,39 +344,9 @@
         "selfContained": true,
         "name": "Dendron"
       },
-      "contentHash": "ed8d6c751c6348611d81c7b602f6eaaa",
+      "contentHash": "a3a74c9e34e59c82fd5d809e9c3c87cb",
       "links": [],
       "anchors": {},
-      "children": [],
-      "parent": "root",
-      "data": {}
-    },
-    "bukib22whgizmqocv7vbfx9": {
-      "id": "bukib22whgizmqocv7vbfx9",
-      "title": "README",
-      "desc": "",
-      "updated": 1709022740731,
-      "created": 1709022740731,
-      "custom": {},
-      "fname": "README",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "Dendron"
-      },
-      "contentHash": "ed2c1ee288ef19dc2a5b2852690ddc04",
-      "links": [],
-      "anchors": {
-        "my-notes": {
-          "type": "header",
-          "text": "My notes",
-          "value": "my-notes",
-          "line": 7,
-          "column": 0,
-          "depth": 1
-        }
-      },
       "children": [],
       "parent": "root",
       "data": {}
@@ -405,7 +374,6 @@
       "links": [],
       "anchors": {},
       "children": [
-        "bukib22whgizmqocv7vbfx9",
         "n00lt4skpqf5v342kyc2qwe",
         "c1bs7wsjfbhb0zipaywqv1",
         "icm96zv8sxaq1uny3mh9tg9"
@@ -436,7 +404,6 @@
     "links": [],
     "anchors": {},
     "children": [
-      "bukib22whgizmqocv7vbfx9",
       "n00lt4skpqf5v342kyc2qwe",
       "c1bs7wsjfbhb0zipaywqv1",
       "icm96zv8sxaq1uny3mh9tg9"

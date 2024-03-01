@@ -78,3 +78,7 @@ git pull
 # pushes local changes to remote branch
 git push origin HEAD:<remote-branch>
 ```
+Error: `fatal: refusing to merge unrelated histories`, [source](https://stackoverflow.com/questions/45272492/git-is-refusing-to-merge-unrelated-histories-what-are-unrelated-histories)
+```bash
+git pull origin master --allow-unrelated-histories
+```
