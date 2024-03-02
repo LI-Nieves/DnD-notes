@@ -128,6 +128,7 @@
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
     "searchMode": "search",
+    "assetsPrefix": "/dendron-notes",
     "siteUrl": "https://li-nieves.github.io",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
