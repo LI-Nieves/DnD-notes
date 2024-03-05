@@ -14,6 +14,7 @@
 - Since we slayed the dragon, we were told where Wave Echo cave is
     - *Everyone* now knows where Wave Echo cave is, including Iarno
     - Technically, we don't need to save Gundren anymore, we can just go straight to Wave Echo cave, since our summoner is Korvac
+    - We decide to go to Connyberry first
 
 ## Connyberry
 - Arrive at 20:00 -- it's foggy
