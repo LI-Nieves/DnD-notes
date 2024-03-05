@@ -1,0 +1,29 @@
+{
+  "roots": [
+    {
+      "key": "5cdjcjh3de9vvvoc162go4i",
+      "title": "Dimensional Mercenary",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron-DnD",
+      "children": [
+        {
+          "key": "ad5d789p1z8uu223odqx63k",
+          "title": "The Lost Mine of Phandelver",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-DnD",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "5cdjcjh3de9vvvoc162go4i": null,
+    "ad5d789p1z8uu223odqx63k": "5cdjcjh3de9vvvoc162go4i"
+  },
+  "notesLabelById": {
+    "5cdjcjh3de9vvvoc162go4i": "Dimensional Mercenary",
+    "ad5d789p1z8uu223odqx63k": "The Lost Mine of Phandelver"
+  }
+}

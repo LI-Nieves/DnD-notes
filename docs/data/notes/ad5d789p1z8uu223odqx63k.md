@@ -1,10 +1,3 @@
----
-id: ad5d789p1z8uu223odqx63k
-title: The Lost Mine of Phandelver
-desc: ''
-updated: 1709603828851
-created: 1709602797352
----
 <span style="color:red">red text</span>
 
 ## Characters
@@ -21,7 +14,6 @@ created: 1709602797352
 - Since we slayed the dragon, we were told where Wave Echo cave is
     - *Everyone* now knows where Wave Echo cave is, including Iarno
     - Technically, we don't need to save Gundren anymore, we can just go straight to Wave Echo cave, since our summoner is Korvac
-    - We decide to go to Connyberry first
 
 ## Connyberry
 - Arrive at 20:00 -- it's foggy
