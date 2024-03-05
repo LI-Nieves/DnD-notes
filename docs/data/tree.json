@@ -1,7 +1,7 @@
 {
   "roots": [
     {
-      "key": "5cdjcjh3de9vvvoc162go4i",
+      "key": "jjf3euoceju2s1tpgzra05h",
       "title": "Dimensional Mercenary",
       "icon": "plusOutlined",
       "hasTitleNumberOutlined": false,
@@ -16,14 +16,24 @@
           "children": []
         }
       ]
+    },
+    {
+      "key": "c1bs7wsjfbhb0zipaywqv1",
+      "title": "Tutorial",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron-DnD",
+      "children": []
     }
   ],
   "child2parent": {
-    "5cdjcjh3de9vvvoc162go4i": null,
-    "ad5d789p1z8uu223odqx63k": "5cdjcjh3de9vvvoc162go4i"
+    "jjf3euoceju2s1tpgzra05h": null,
+    "ad5d789p1z8uu223odqx63k": "jjf3euoceju2s1tpgzra05h",
+    "c1bs7wsjfbhb0zipaywqv1": null
   },
   "notesLabelById": {
-    "5cdjcjh3de9vvvoc162go4i": "Dimensional Mercenary",
-    "ad5d789p1z8uu223odqx63k": "The Lost Mine of Phandelver"
+    "jjf3euoceju2s1tpgzra05h": "Dimensional Mercenary",
+    "ad5d789p1z8uu223odqx63k": "The Lost Mine of Phandelver",
+    "c1bs7wsjfbhb0zipaywqv1": "Tutorial"
   }
 }

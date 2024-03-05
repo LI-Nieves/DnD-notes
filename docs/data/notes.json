@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1709604201837,
-      "created": 1709604201837,
+      "updated": 1709629951187,
+      "created": 1709629951187,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -37,14 +37,14 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "bbb3a01d9bcadf2603c2bbde16be065a",
+      "contentHash": "d7349c73e72d4f5ff9957f174e9a5f8f",
       "links": [],
       "anchors": {
         "welcome-to-dendron": {
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 9,
+          "line": 7,
           "column": 0,
           "depth": 1
         },
@@ -52,18 +52,19 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 13,
+          "line": 11,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
-        "5cdjcjh3de9vvvoc162go4i"
+        "c1bs7wsjfbhb0zipaywqv1",
+        "jjf3euoceju2s1tpgzra05h"
       ],
       "parent": null,
       "data": {}
     },
-    "5cdjcjh3de9vvvoc162go4i": {
+    "jjf3euoceju2s1tpgzra05h": {
       "fname": "Dimensional Mercenary",
       "stub": true,
       "vault": {
@@ -73,9 +74,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1709602797365,
-      "created": 1709602797365,
-      "id": "5cdjcjh3de9vvvoc162go4i",
+      "updated": 1709627802254,
+      "created": 1709627802254,
+      "id": "jjf3euoceju2s1tpgzra05h",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -90,7 +91,7 @@
       "id": "ad5d789p1z8uu223odqx63k",
       "title": "The Lost Mine of Phandelver",
       "desc": "",
-      "updated": 1709603828851,
+      "updated": 1709629810073,
       "created": 1709602797352,
       "custom": {},
       "fname": "Dimensional Mercenary.The Lost Mine of Phandelver",
@@ -100,7 +101,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "005b554150c6ca0213c3db0516cd5710",
+      "contentHash": "c7c42addd57c6bd462ebb2f74a2d35df",
       "links": [],
       "anchors": {
         "characters": {
@@ -111,10 +112,10 @@
           "column": 0,
           "depth": 2
         },
-        "after-the-dragon-slaying": {
+        "thundertree": {
           "type": "header",
-          "text": "After the dragon slaying...",
-          "value": "after-the-dragon-slaying",
+          "text": "Thundertree",
+          "value": "thundertree",
           "line": 19,
           "column": 0,
           "depth": 2
@@ -123,7 +124,7 @@
           "type": "header",
           "text": "Connyberry",
           "value": "connyberry",
-          "line": 25,
+          "line": 57,
           "column": 0,
           "depth": 2
         },
@@ -131,7 +132,7 @@
           "type": "header",
           "text": "Return to Phandalen",
           "value": "return-to-phandalen",
-          "line": 64,
+          "line": 88,
           "column": 0,
           "depth": 2
         },
@@ -139,13 +140,189 @@
           "type": "header",
           "text": "Cragmaw Castle",
           "value": "cragmaw-castle",
-          "line": 76,
+          "line": 98,
           "column": 0,
           "depth": 2
         }
       },
       "children": [],
-      "parent": "5cdjcjh3de9vvvoc162go4i",
+      "parent": "jjf3euoceju2s1tpgzra05h",
+      "data": {}
+    },
+    "c1bs7wsjfbhb0zipaywqv1": {
+      "id": "c1bs7wsjfbhb0zipaywqv1",
+      "title": "Tutorial",
+      "desc": "",
+      "updated": 1658931733078,
+      "created": 1654223767390,
+      "currentStep": 0,
+      "totalSteps": 0,
+      "custom": {
+        "currentStep": 0,
+        "totalSteps": 0
+      },
+      "fname": "tutorial",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-DnD"
+      },
+      "contentHash": "ab12a0ebde45082967034f9eea2df3fc",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "c1bs7wsjfbhb0zipaywqv1",
+            "vaultName": "Dendron-DnD"
+          },
+          "value": "tutorial.one",
+          "position": {
+            "start": {
+              "line": 61,
+              "column": 9,
+              "offset": 2424
+            },
+            "end": {
+              "line": 61,
+              "column": 25,
+              "offset": 2440
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.one"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "c1bs7wsjfbhb0zipaywqv1",
+            "vaultName": "Dendron-DnD"
+          },
+          "value": "tutorial",
+          "position": {
+            "start": {
+              "line": 65,
+              "column": 134,
+              "offset": 2762
+            },
+            "end": {
+              "line": 65,
+              "column": 146,
+              "offset": 2774
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "id": "c1bs7wsjfbhb0zipaywqv1",
+            "vaultName": "Dendron-DnD"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 65,
+              "column": 134,
+              "offset": 2762
+            },
+            "end": {
+              "line": 65,
+              "column": 146,
+              "offset": 2774
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        }
+      ],
+      "anchors": {
+        "create-a-note": {
+          "type": "header",
+          "text": "Create a Note",
+          "value": "create-a-note",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "find-a-note": {
+          "type": "header",
+          "text": "Find a Note",
+          "value": "find-a-note",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "organize-your-notes": {
+          "type": "header",
+          "text": "Organize your Notes",
+          "value": "organize-your-notes",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "create-a-link": {
+          "type": "header",
+          "text": "Create a link",
+          "value": "create-a-link",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        },
+        "navigate-a-link": {
+          "type": "header",
+          "text": "Navigate a link",
+          "value": "navigate-a-link",
+          "line": 59,
+          "column": 0,
+          "depth": 2
+        },
+        "refactor-a-note": {
+          "type": "header",
+          "text": "Refactor a Note",
+          "value": "refactor-a-note",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        },
+        "conclusion": {
+          "type": "header",
+          "text": "Conclusion",
+          "value": "conclusion",
+          "line": 76,
+          "column": 0,
+          "depth": 2
+        },
+        "next-steps": {
+          "type": "header",
+          "text": "Next Steps",
+          "value": "next-steps",
+          "line": 82,
+          "column": 0,
+          "depth": 2
+        },
+        "community": {
+          "type": "header",
+          "text": "Community",
+          "value": "community",
+          "line": 104,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "dzkphd40aimils26q7q6xd2",
       "data": {}
     }
   },
@@ -161,21 +338,20 @@
         "permalink": "/"
       },
       "fname": "root",
-      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "bbb3a01d9bcadf2603c2bbde16be065a",
+      "contentHash": "d7349c73e72d4f5ff9957f174e9a5f8f",
       "links": [],
       "anchors": {
         "welcome-to-dendron": {
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 9,
+          "line": 7,
           "column": 0,
           "depth": 1
         },
@@ -183,16 +359,18 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 13,
+          "line": 11,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
-        "5cdjcjh3de9vvvoc162go4i"
+        "c1bs7wsjfbhb0zipaywqv1",
+        "jjf3euoceju2s1tpgzra05h"
       ],
       "parent": null,
-      "data": {}
+      "data": {},
+      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
     }
   ],
   "noteIndex": {
@@ -206,21 +384,20 @@
       "permalink": "/"
     },
     "fname": "root",
-    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "Dendron-DnD"
     },
-    "contentHash": "bbb3a01d9bcadf2603c2bbde16be065a",
+    "contentHash": "d7349c73e72d4f5ff9957f174e9a5f8f",
     "links": [],
     "anchors": {
       "welcome-to-dendron": {
         "type": "header",
         "text": "Welcome to Dendron",
         "value": "welcome-to-dendron",
-        "line": 9,
+        "line": 7,
         "column": 0,
         "depth": 1
       },
@@ -228,16 +405,18 @@
         "type": "header",
         "text": "Lookup",
         "value": "lookup",
-        "line": 13,
+        "line": 11,
         "column": 0,
         "depth": 2
       }
     },
     "children": [
-      "5cdjcjh3de9vvvoc162go4i"
+      "c1bs7wsjfbhb0zipaywqv1",
+      "jjf3euoceju2s1tpgzra05h"
     ],
     "parent": null,
-    "data": {}
+    "data": {},
+    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
   },
   "vaults": [
     {
