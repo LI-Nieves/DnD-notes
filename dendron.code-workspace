@@ -2,7 +2,11 @@
   "folders": [
     {
       "path": "notes",
+<<<<<<< HEAD
       "name": "Dendron-DnD"
+=======
+      "name": "Dendron"
+>>>>>>> 4f01c54b6e732e3082a82285a3ec3b96643ab3fd
     }
   ],
   "settings": {

@@ -25,7 +25,11 @@ workspace:
         -
             fsPath: .
             selfContained: true
+<<<<<<< HEAD
             name: Dendron-DnD
+=======
+            name: Dendron
+>>>>>>> 4f01c54b6e732e3082a82285a3ec3b96643ab3fd
     journal:
         dailyDomain: daily
         name: journal
@@ -82,6 +86,11 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+<<<<<<< HEAD
+=======
+    assetsPrefix: /dendron-notes
+    siteUrl: https://li-nieves.github.io
+>>>>>>> 4f01c54b6e732e3082a82285a3ec3b96643ab3fd
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
@@ -106,5 +115,8 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+<<<<<<< HEAD
     assetsPrefix: /dnd-notes
     siteUrl: https://li-nieves.github.io
+=======
+>>>>>>> 4f01c54b6e732e3082a82285a3ec3b96643ab3fd
