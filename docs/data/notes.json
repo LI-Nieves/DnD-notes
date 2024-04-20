@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1709629951187,
-      "created": 1709629951187,
+      "updated": 1713577614040,
+      "created": 1713577614040,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "d7349c73e72d4f5ff9957f174e9a5f8f",
+      "contentHash": "f2d3d0fc70e9754e61e949b026d17554",
       "links": [],
       "anchors": {
         "welcome-to-dendron": {
@@ -59,12 +59,12 @@
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "jjf3euoceju2s1tpgzra05h"
+        "y6ku1t29mx2mu1guljn5w7h"
       ],
       "parent": null,
       "data": {}
     },
-    "jjf3euoceju2s1tpgzra05h": {
+    "y6ku1t29mx2mu1guljn5w7h": {
       "fname": "Dimensional Mercenary",
       "stub": true,
       "vault": {
@@ -74,9 +74,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1709627802254,
-      "created": 1709627802254,
-      "id": "jjf3euoceju2s1tpgzra05h",
+      "updated": 1713577585301,
+      "created": 1713577585301,
+      "id": "y6ku1t29mx2mu1guljn5w7h",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -91,7 +91,7 @@
       "id": "ad5d789p1z8uu223odqx63k",
       "title": "The Lost Mine of Phandelver",
       "desc": "",
-      "updated": 1709629810073,
+      "updated": 1713576526367,
       "created": 1709602797352,
       "custom": {},
       "fname": "Dimensional Mercenary.The Lost Mine of Phandelver",
@@ -101,7 +101,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "c7c42addd57c6bd462ebb2f74a2d35df",
+      "contentHash": "76e36d86d45fa53895e7f6379fc99949",
       "links": [],
       "anchors": {
         "characters": {
@@ -146,7 +146,7 @@
         }
       },
       "children": [],
-      "parent": "jjf3euoceju2s1tpgzra05h",
+      "parent": "y6ku1t29mx2mu1guljn5w7h",
       "data": {}
     },
     "c1bs7wsjfbhb0zipaywqv1": {
@@ -168,7 +168,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "ab12a0ebde45082967034f9eea2df3fc",
+      "contentHash": "ceac43d1194989e226e1975e116351ce",
       "links": [
         {
           "type": "wiki",
@@ -182,12 +182,12 @@
             "start": {
               "line": 61,
               "column": 9,
-              "offset": 2424
+              "offset": 2484
             },
             "end": {
               "line": 61,
               "column": 25,
-              "offset": 2440
+              "offset": 2500
             },
             "indent": []
           },
@@ -209,12 +209,12 @@
             "start": {
               "line": 65,
               "column": 134,
-              "offset": 2762
+              "offset": 2826
             },
             "end": {
               "line": 65,
               "column": 146,
-              "offset": 2774
+              "offset": 2838
             },
             "indent": []
           },
@@ -235,12 +235,12 @@
             "start": {
               "line": 65,
               "column": 134,
-              "offset": 2762
+              "offset": 2826
             },
             "end": {
               "line": 65,
               "column": 146,
-              "offset": 2774
+              "offset": 2838
             },
             "indent": []
           },
@@ -338,13 +338,14 @@
         "permalink": "/"
       },
       "fname": "root",
+      "body": "# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "d7349c73e72d4f5ff9957f174e9a5f8f",
+      "contentHash": "f2d3d0fc70e9754e61e949b026d17554",
       "links": [],
       "anchors": {
         "welcome-to-dendron": {
@@ -366,11 +367,10 @@
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "jjf3euoceju2s1tpgzra05h"
+        "y6ku1t29mx2mu1guljn5w7h"
       ],
       "parent": null,
-      "data": {},
-      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+      "data": {}
     }
   ],
   "noteIndex": {
@@ -384,13 +384,14 @@
       "permalink": "/"
     },
     "fname": "root",
+    "body": "# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "Dendron-DnD"
     },
-    "contentHash": "d7349c73e72d4f5ff9957f174e9a5f8f",
+    "contentHash": "f2d3d0fc70e9754e61e949b026d17554",
     "links": [],
     "anchors": {
       "welcome-to-dendron": {
@@ -412,11 +413,10 @@
     },
     "children": [
       "c1bs7wsjfbhb0zipaywqv1",
-      "jjf3euoceju2s1tpgzra05h"
+      "y6ku1t29mx2mu1guljn5w7h"
     ],
     "parent": null,
-    "data": {},
-    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+    "data": {}
   },
   "vaults": [
     {

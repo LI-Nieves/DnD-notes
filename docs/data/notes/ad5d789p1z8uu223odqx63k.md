@@ -94,4 +94,36 @@
 - A drow spots us and tells us to leave, tells us Gundren isn't here
     - We show the drow the Glass Staff, but he doesn't recognize it
 - We decide to just go around the building on the south side
-- <span style="color:red">We encounter some goblins and fight them</span>
+    - <span style="color:red">We encounter some goblins and kill them</span>
+    - *We Long Rest*
+    - <span style="color:red">Kill some drows</span> 
+- **Lockpick next door, found Gundren and Jarvani!**
+- We encounter a bugbear, but we convince him to take us to his King
+- We overhear a drow threatening the king with a weapon, the conversation:
+    - Goblins had made a deal with the drow to kidnap Gundren
+    - Drow now asking for Gundren, but King Goblin wants more in exchange
+    - But drow is refusing, now wanna kill King Goblin
+- We attempt to lead the bugbear out of the castle, but he insists to bring the King out to us instead
+    - Drow offers to deal with us in the King's stead, and King says he'll let the drow "have the dwarf [Gundren]" if the drow takes care of the situation
+- <span style="color:red">Drow and bugbear come out to greet us all, see us with Gundren, and decide to attack us</span> 
+    - <span style="color:red">We knock the drow out unconscious and the bugbear surrenders
+    - We rip the bugbear's tongue out</span> 
+    - We find a note on the drow: 
+        - There's a stamp at the bottom that looks like a spider
+        - "Bring Gundren to this location: *picture of Wave Echo cave*"
+- We interrogate the drow, and we learn:
+    - Black Spider is maybe at Wave Echo cave
+    - Drow doesn't know why they need Gundren at Wave Echo cave
+    - He knows the Black Spider seeks "something" at Wave Echo cave
+    - He conjures up an image of what the Black Spider looks like, and tells us he uses drow weapons and to be wary of the "spider staff", which is poisonous
+    - The Black Spider's weakness is that "he has no mercy for his victims"
+    - Apparently, Iarno and Black Spider have a deal with Iarno leaves alone the Red Brand Ruffians, and in return Iarno gets sole ownership of WEC
+        - RBR's purpose is to get the supplies to excavate WEC
+        - Iarno broke the agreement by hiring us
+        - He doesn't know why BS is offering Iarno WEC
+        - Sildar is confused about things
+    - BS is stronger than Iarno
+    - BS is a warrior class
+    - Not sure if BS is alone in WEC
+    - Drow is BS's right-hand man
+    - RBRs need to stay in Phandalen
