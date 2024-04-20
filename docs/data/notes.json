@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1713577614040,
-      "created": 1713577614040,
+      "updated": 1713577898250,
+      "created": 1713577898250,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -44,7 +44,7 @@
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 7,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -52,7 +52,7 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 11,
+          "line": 13,
           "column": 0,
           "depth": 2
         }
@@ -352,7 +352,7 @@
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 7,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -360,7 +360,7 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 11,
+          "line": 13,
           "column": 0,
           "depth": 2
         }
@@ -398,7 +398,7 @@
         "type": "header",
         "text": "Welcome to Dendron",
         "value": "welcome-to-dendron",
-        "line": 7,
+        "line": 9,
         "column": 0,
         "depth": 1
       },
@@ -406,7 +406,7 @@
         "type": "header",
         "text": "Lookup",
         "value": "lookup",
-        "line": 11,
+        "line": 13,
         "column": 0,
         "depth": 2
       }
