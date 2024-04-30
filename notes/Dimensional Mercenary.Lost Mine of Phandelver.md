@@ -2,7 +2,7 @@
 id: ad5d789p1z8uu223odqx63k
 title: Lost Mine of Phandelver
 desc: ''
-updated: 1714446997515
+updated: 1714448166909
 created: 1709602797352
 ---
 
@@ -18,13 +18,13 @@ created: 1709602797352
     - Pieck (retired): Nil
     - Shadow (retired): Ethan
     - Tim: Lee
-- Combined group now includes:
+- Combined group then adds:
     - Akta: Kyle Tibayan
     - Emerit: Francis
     - Gondorf: Hans
     - Hildebrand: Michael
     - Jarvani: John
-- These adventures begin with Pieck's Fingers. The combined group comes together (and some of Pieck's Fingers members retire) after Tresendar Manor.
+- These adventures begin with Pieck's Fingers. The characters in the combined group are added (and some of Pieck's Fingers members retire) after Tresendar Manor.
 
 ## Mission Incentives
 - Reward: portion of what we find
@@ -111,7 +111,7 @@ created: 1709602797352
     - They stash their gold in the Sleeping Giant
     - He doesn't know who Gundren is
     - Thunder Tree is 1 hour south from here
-- Captain dies before telling us where the secret entrance to the Sleeping Giant is
+- **Captain dies before telling us where the secret entrance to the Sleeping Giant is**
     - Owl bear eats him
 - **We get 25 GP and a piece of paper from the Captain, that says "Bring the bag sundown tomorrow. --G"**
 - **We retrieve the bag of Minghee's weapons from the bottom of the well**
@@ -149,8 +149,8 @@ created: 1709602797352
         - The mayor isn't in cahoots with them
         - The code word is "Fear the Black Spider"
         - He was ordered to make a mess of the place by the Black Spider, who runs everything
-        - He disintegrates before telling us more
-    - **Shadow takes his glass staff**
+        - **He disintegrates before telling us more**
+    - **Shadow takes the Glass Staff**
     - **We gain 90 GP and 6 short swords**
 - **We go to Glasstaff's office and see his diary**
     - 3 weeks ago:
@@ -220,7 +220,8 @@ created: 1709602797352
     - Akta feigns cutting off his arm twice, attempting to attack Venomfang, but misses both times
         - <span style="color:red">Venomfang attacks us</span>
         - Mid-combat, Iarno, Reidoth, and Sildar arrive to help
-        - We slay Venomfang!
+        - We also summon the owl bear to help out
+        - **We slay Venomfang!**
 - Since we slayed Venomfang, we were told where WEC is
     - *Everyone* now knows where it is, including Iarno
     - Technically, we don't need to save Gundren anymore, we can just go straight to WEC, since our summoner is Korvac
@@ -302,8 +303,8 @@ created: 1709602797352
     - Not sure if BS is alone in WEC
     - Drow is BS's right-hand man
     - RBRs need to stay in Phandalin
-- We kill the drow and hang him from a tree
-- The King Goblin agrees to help us at WEC
+- **We kill the drow** and hang him from a tree
+- **The King Goblin agrees to help us at WEC**
 
 ## Back to Phandalin to confront Iarno
 - We claims to not know the drow, BS, and the plans with the WEC
@@ -325,7 +326,7 @@ created: 1709602797352
 - "Why do you have a scroll to Neverwinter?"
     - He wanted to run away to Neverwinter if we didn't leave him alone
     - He revealed: if we promised to leave him alone, take the GP, then left, he would've made the GP disappear then teleport to Neverwinter anyway
-- He refuses to give us any more info, so Emerit kills him but pouring a pint of acid dragon blood into his mouth
+- **He refuses to give us any more info, so Emerit kills him but pouring a pint of acid dragon blood into his mouth**
 
 ## Post-Iarno fight
 - *We Long Rest at Stonehill Inn*
