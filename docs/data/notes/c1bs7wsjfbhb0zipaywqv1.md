@@ -1,4 +1,5 @@
 
+
 Welcome to Dendron! Dendron is a developer-focused knowledge base that helps you manage information using **flexible hierarchies**!
 
 You are currently in the tutorial vault (a vault is the folder where your notes are stored). Feel free to edit this note and create new files as you go through the quickstart!

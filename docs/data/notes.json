@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1713577898250,
-      "created": 1713577898250,
+      "updated": 1714447043156,
+      "created": 1714447043156,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -44,7 +44,7 @@
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 9,
+          "line": 7,
           "column": 0,
           "depth": 1
         },
@@ -52,19 +52,19 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 13,
+          "line": 11,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "y6ku1t29mx2mu1guljn5w7h"
+        "pzzaeu2z8905ky61r679xmw"
       ],
       "parent": null,
       "data": {}
     },
-    "y6ku1t29mx2mu1guljn5w7h": {
+    "pzzaeu2z8905ky61r679xmw": {
       "fname": "Dimensional Mercenary",
       "stub": true,
       "vault": {
@@ -74,9 +74,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1713577585301,
-      "created": 1713577585301,
-      "id": "y6ku1t29mx2mu1guljn5w7h",
+      "updated": 1714446968387,
+      "created": 1714446968387,
+      "id": "pzzaeu2z8905ky61r679xmw",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -89,26 +89,106 @@
     },
     "ad5d789p1z8uu223odqx63k": {
       "id": "ad5d789p1z8uu223odqx63k",
-      "title": "The Lost Mine of Phandelver",
+      "title": "Lost Mine of Phandelver",
       "desc": "",
-      "updated": 1713576526367,
+      "updated": 1714446997515,
       "created": 1709602797352,
       "custom": {},
-      "fname": "Dimensional Mercenary.The Lost Mine of Phandelver",
+      "fname": "Dimensional Mercenary.Lost Mine of Phandelver",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "76e36d86d45fa53895e7f6379fc99949",
+      "contentHash": "5032b1a7aaf0a608324e43d9f4827819",
       "links": [],
       "anchors": {
+        "legend": {
+          "type": "header",
+          "text": "Legend",
+          "value": "legend",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
         "characters": {
           "type": "header",
           "text": "Characters",
           "value": "characters",
-          "line": 9,
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "mission-incentives": {
+          "type": "header",
+          "text": "Mission Incentives",
+          "value": "mission-incentives",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "delivery-to-phandalin": {
+          "type": "header",
+          "text": "Delivery to Phandalin",
+          "value": "delivery-to-phandalin",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "cragmaw-cave": {
+          "type": "header",
+          "text": "Cragmaw Cave",
+          "value": "cragmaw-cave",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "phandalin": {
+          "type": "header",
+          "text": "Phandalin",
+          "value": "phandalin",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "old-owl-well": {
+          "type": "header",
+          "text": "Old Owl Well",
+          "value": "old-owl-well",
+          "line": 91,
+          "column": 0,
+          "depth": 2
+        },
+        "back-to-phandalin": {
+          "type": "header",
+          "text": "Back to Phandalin",
+          "value": "back-to-phandalin",
+          "line": 118,
+          "column": 0,
+          "depth": 2
+        },
+        "tresendar-manor": {
+          "type": "header",
+          "text": "Tresendar Manor",
+          "value": "tresendar-manor",
+          "line": 124,
+          "column": 0,
+          "depth": 2
+        },
+        "return-to-town": {
+          "type": "header",
+          "text": "Return to town",
+          "value": "return-to-town",
+          "line": 166,
           "column": 0,
           "depth": 2
         },
@@ -116,7 +196,7 @@
           "type": "header",
           "text": "Thundertree",
           "value": "thundertree",
-          "line": 19,
+          "line": 191,
           "column": 0,
           "depth": 2
         },
@@ -124,15 +204,15 @@
           "type": "header",
           "text": "Connyberry",
           "value": "connyberry",
-          "line": 57,
+          "line": 228,
           "column": 0,
           "depth": 2
         },
-        "return-to-phandalen": {
+        "return-to-phandalin": {
           "type": "header",
-          "text": "Return to Phandalen",
-          "value": "return-to-phandalen",
-          "line": 88,
+          "text": "Return to Phandalin",
+          "value": "return-to-phandalin",
+          "line": 257,
           "column": 0,
           "depth": 2
         },
@@ -140,13 +220,37 @@
           "type": "header",
           "text": "Cragmaw Castle",
           "value": "cragmaw-castle",
-          "line": 98,
+          "line": 266,
+          "column": 0,
+          "depth": 2
+        },
+        "back-to-phandalin-to-confront-iarno": {
+          "type": "header",
+          "text": "Back to Phandalin to confront Iarno",
+          "value": "back-to-phandalin-to-confront-iarno",
+          "line": 307,
+          "column": 0,
+          "depth": 2
+        },
+        "post-iarno-fight": {
+          "type": "header",
+          "text": "Post-Iarno fight",
+          "value": "post-iarno-fight",
+          "line": 329,
+          "column": 0,
+          "depth": 2
+        },
+        "wave-echo-cave": {
+          "type": "header",
+          "text": "Wave Echo Cave",
+          "value": "wave-echo-cave",
+          "line": 340,
           "column": 0,
           "depth": 2
         }
       },
       "children": [],
-      "parent": "y6ku1t29mx2mu1guljn5w7h",
+      "parent": "pzzaeu2z8905ky61r679xmw",
       "data": {}
     },
     "c1bs7wsjfbhb0zipaywqv1": {
@@ -338,7 +442,6 @@
         "permalink": "/"
       },
       "fname": "root",
-      "body": "# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
@@ -352,7 +455,7 @@
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 9,
+          "line": 7,
           "column": 0,
           "depth": 1
         },
@@ -360,17 +463,18 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 13,
+          "line": 11,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "y6ku1t29mx2mu1guljn5w7h"
+        "pzzaeu2z8905ky61r679xmw"
       ],
       "parent": null,
-      "data": {}
+      "data": {},
+      "body": "\n# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n"
     }
   ],
   "noteIndex": {
@@ -384,7 +488,6 @@
       "permalink": "/"
     },
     "fname": "root",
-    "body": "# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
@@ -398,7 +501,7 @@
         "type": "header",
         "text": "Welcome to Dendron",
         "value": "welcome-to-dendron",
-        "line": 9,
+        "line": 7,
         "column": 0,
         "depth": 1
       },
@@ -406,17 +509,18 @@
         "type": "header",
         "text": "Lookup",
         "value": "lookup",
-        "line": 13,
+        "line": 11,
         "column": 0,
         "depth": 2
       }
     },
     "children": [
       "c1bs7wsjfbhb0zipaywqv1",
-      "y6ku1t29mx2mu1guljn5w7h"
+      "pzzaeu2z8905ky61r679xmw"
     ],
     "parent": null,
-    "data": {}
+    "data": {},
+    "body": "\n# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n"
   },
   "vaults": [
     {
