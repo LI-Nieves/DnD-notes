@@ -2,7 +2,7 @@
 id: ad5d789p1z8uu223odqx63k
 title: Lost Mine of Phandelver
 desc: ''
-updated: 1714448166909
+updated: 1714527692847
 created: 1709602797352
 ---
 
@@ -20,7 +20,7 @@ created: 1709602797352
     - Tim: Lee
 - Combined group then adds:
     - Akta: Kyle Tibayan
-    - Emerit: Francis
+    - Emiret: Francis
     - Gondorf: Hans
     - Hildebrand: Michael
     - Jarvani: John
@@ -191,7 +191,7 @@ created: 1709602797352
 
 ## Thundertree
 - We all head to Thundertree with Sildar
-- <span style="color:red">Immediately, Ents attack us and get fucked by Emerit</span>
+- <span style="color:red">Immediately, Ents attack us and get fucked by Emiret</span>
 - We meet Reidoth, druid from the Emerald Enclave
     - He watches over Phandalin and warns people who enter this area of the zombies
     - He studied the zombification phenomenon
@@ -230,7 +230,7 @@ created: 1709602797352
 ## Connyberry
 - Arrive at 20:00 -- it's foggy
 - We see the entrance of her home: a hole in a tree with a lantern outside
-    - Emerit throws paper airplane made of Pamphlet of Researchtology through the opening, which flies in but disappears
+    - Emiret throws paper airplane made of Pamphlet of Researchtology through the opening, which flies in but disappears
 - The witch comes out with the paper airplane in her hand then burns it
     - She sees the Dendrar's Silver Crown on Akta's head and asks him if he's a descendant of a Dendrar
     - She eventually takes the crown off Akta's head
@@ -326,7 +326,7 @@ created: 1709602797352
 - "Why do you have a scroll to Neverwinter?"
     - He wanted to run away to Neverwinter if we didn't leave him alone
     - He revealed: if we promised to leave him alone, take the GP, then left, he would've made the GP disappear then teleport to Neverwinter anyway
-- **He refuses to give us any more info, so Emerit kills him but pouring a pint of acid dragon blood into his mouth**
+- **He refuses to give us any more info, so Emiret kills him but pouring a pint of acid dragon blood into his mouth**
 
 ## Post-Iarno fight
 - *We Long Rest at Stonehill Inn*
@@ -347,10 +347,10 @@ created: 1709602797352
     - Drow reveals all RBRs are dead
     - Nezznar intends to visit the town
     - Nezznar intends to kill Nundro, preparing a spell to do so, and Nundro pleads for his life
-    - Emerit uses Mage Hand to attempt to throw a rock to distract Nezznar
+    - Emiret uses Mage Hand to attempt to throw a rock to distract Nezznar
     - Nezznar notices the rock and starts looking for us
 - Nezznar encounters Hildebrand, who failed to hide
-- Emerit talks to Nundro, who turns out to be Gundren's brother
+- Emiret talks to Nundro, who turns out to be Gundren's brother
     - Nundro, Tharden (another dwarf), and Gundren were supposed to go through WEC together
     - Gundren was late, and Nundro and Tharden were captured by Nezznar and tortured; Tharden died 
 - We agree to help Nezznar navigate the cave

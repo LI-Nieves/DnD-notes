@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1714448261849,
-      "created": 1714448261849,
+      "updated": 1714527754315,
+      "created": 1714527754315,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -44,7 +44,7 @@
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 10,
+          "line": 7,
           "column": 0,
           "depth": 1
         },
@@ -52,19 +52,19 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 14,
+          "line": 11,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "pzzaeu2z8905ky61r679xmw"
+        "9br8ejnpiltd2r8068u9rak"
       ],
       "parent": null,
       "data": {}
     },
-    "pzzaeu2z8905ky61r679xmw": {
+    "9br8ejnpiltd2r8068u9rak": {
       "fname": "Dimensional Mercenary",
       "stub": true,
       "vault": {
@@ -74,9 +74,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1714446968387,
-      "created": 1714446968387,
-      "id": "pzzaeu2z8905ky61r679xmw",
+      "updated": 1714527673327,
+      "created": 1714527673327,
+      "id": "9br8ejnpiltd2r8068u9rak",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -91,7 +91,7 @@
       "id": "ad5d789p1z8uu223odqx63k",
       "title": "Lost Mine of Phandelver",
       "desc": "",
-      "updated": 1714448166909,
+      "updated": 1714527692847,
       "created": 1709602797352,
       "custom": {},
       "fname": "Dimensional Mercenary.Lost Mine of Phandelver",
@@ -101,7 +101,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "bbc476d9360ddc3569522137dd7cf5ed",
+      "contentHash": "e818584ccfda29964beab880d6d816f5",
       "links": [],
       "anchors": {
         "legend": {
@@ -250,7 +250,7 @@
         }
       },
       "children": [],
-      "parent": "pzzaeu2z8905ky61r679xmw",
+      "parent": "9br8ejnpiltd2r8068u9rak",
       "data": {}
     },
     "c1bs7wsjfbhb0zipaywqv1": {
@@ -284,14 +284,14 @@
           "value": "tutorial.one",
           "position": {
             "start": {
-              "line": 62,
+              "line": 61,
               "column": 9,
-              "offset": 2485
+              "offset": 2484
             },
             "end": {
-              "line": 62,
+              "line": 61,
               "column": 25,
-              "offset": 2501
+              "offset": 2500
             },
             "indent": []
           },
@@ -311,14 +311,14 @@
           "value": "tutorial",
           "position": {
             "start": {
-              "line": 66,
+              "line": 65,
               "column": 134,
-              "offset": 2827
+              "offset": 2826
             },
             "end": {
-              "line": 66,
+              "line": 65,
               "column": 146,
-              "offset": 2839
+              "offset": 2838
             },
             "indent": []
           },
@@ -337,14 +337,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 66,
+              "line": 65,
               "column": 134,
-              "offset": 2827
+              "offset": 2826
             },
             "end": {
-              "line": 66,
+              "line": 65,
               "column": 146,
-              "offset": 2839
+              "offset": 2838
             },
             "indent": []
           },
@@ -356,7 +356,7 @@
           "type": "header",
           "text": "Create a Note",
           "value": "create-a-note",
-          "line": 15,
+          "line": 14,
           "column": 0,
           "depth": 2
         },
@@ -364,7 +364,7 @@
           "type": "header",
           "text": "Find a Note",
           "value": "find-a-note",
-          "line": 26,
+          "line": 25,
           "column": 0,
           "depth": 2
         },
@@ -372,7 +372,7 @@
           "type": "header",
           "text": "Organize your Notes",
           "value": "organize-your-notes",
-          "line": 37,
+          "line": 36,
           "column": 0,
           "depth": 2
         },
@@ -380,7 +380,7 @@
           "type": "header",
           "text": "Create a link",
           "value": "create-a-link",
-          "line": 48,
+          "line": 47,
           "column": 0,
           "depth": 2
         },
@@ -388,7 +388,7 @@
           "type": "header",
           "text": "Navigate a link",
           "value": "navigate-a-link",
-          "line": 60,
+          "line": 59,
           "column": 0,
           "depth": 2
         },
@@ -396,7 +396,7 @@
           "type": "header",
           "text": "Refactor a Note",
           "value": "refactor-a-note",
-          "line": 68,
+          "line": 67,
           "column": 0,
           "depth": 2
         },
@@ -404,7 +404,7 @@
           "type": "header",
           "text": "Conclusion",
           "value": "conclusion",
-          "line": 77,
+          "line": 76,
           "column": 0,
           "depth": 2
         },
@@ -412,7 +412,7 @@
           "type": "header",
           "text": "Next Steps",
           "value": "next-steps",
-          "line": 83,
+          "line": 82,
           "column": 0,
           "depth": 2
         },
@@ -420,7 +420,7 @@
           "type": "header",
           "text": "Community",
           "value": "community",
-          "line": 105,
+          "line": 104,
           "column": 0,
           "depth": 2
         }
@@ -455,7 +455,7 @@
           "type": "header",
           "text": "Welcome to Dendron",
           "value": "welcome-to-dendron",
-          "line": 10,
+          "line": 7,
           "column": 0,
           "depth": 1
         },
@@ -463,14 +463,14 @@
           "type": "header",
           "text": "Lookup",
           "value": "lookup",
-          "line": 14,
+          "line": 11,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "pzzaeu2z8905ky61r679xmw"
+        "9br8ejnpiltd2r8068u9rak"
       ],
       "parent": null,
       "data": {},
@@ -501,7 +501,7 @@
         "type": "header",
         "text": "Welcome to Dendron",
         "value": "welcome-to-dendron",
-        "line": 10,
+        "line": 7,
         "column": 0,
         "depth": 1
       },
@@ -509,14 +509,14 @@
         "type": "header",
         "text": "Lookup",
         "value": "lookup",
-        "line": 14,
+        "line": 11,
         "column": 0,
         "depth": 2
       }
     },
     "children": [
       "c1bs7wsjfbhb0zipaywqv1",
-      "pzzaeu2z8905ky61r679xmw"
+      "9br8ejnpiltd2r8068u9rak"
     ],
     "parent": null,
     "data": {},
