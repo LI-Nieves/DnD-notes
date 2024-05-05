@@ -2,7 +2,7 @@
 id: ad5d789p1z8uu223odqx63k
 title: Lost Mine of Phandelver
 desc: ''
-updated: 1714527692847
+updated: 1714897493975
 created: 1709602797352
 ---
 
@@ -367,3 +367,66 @@ created: 1709602797352
 - Akta tries to show him a "trick" with his Lightbringer...
     - <span style="color:red">Akta swings at him, initiating a fight</span>
     - We kill the drow, but **Nezznar escapes with Misty Step and Invisibility**
+- We send Nundro with a handaxe back to Phandalin to warn them that Nezznar wants to kill them
+    - Sweating, he hesistantly agrees and stumbles off
+- *We Short Rest by the fire at the entrance of the cave* then head out to explore the cave, splitting up
+- Group 1: Akta, Gondorf, Hildebrand
+    - Akta discovers something dripping and sticks an arrow under it; the arrow gets dissolved
+    - <span style="color:red">They run into an Ochre Jelly, initiating a fight; they defeat it</span>
+    - In another room, they see a still pool surrounded by broken shells of mussels
+        - They notice footprints leading towards stairs and towards a door
+        - There's something in the water... 
+- Group 2: Tim and Emiret
+    - In the room next to us, we see unlit torches, carvings of dwarves working in the walls, and dead skeletons all around, one of them being a dwarf
+    - <span style="color:red">Emiret uses Mage Hand to move a skull in a room next to us, which prompts Stirges to fall down from the ceiling, initiating a fight; we eventually defeat them (or most of them?)</span>
+- Group 2 meets up with Group 1, and then <span style="color:red">a giant constrictor snake comes out of the water; we defeat it</span>
+    - After we defeat it, we see something shiny in the water
+    - We manage to drag it out with Mage Hand -- it's a wizard skeleton with **3 gold rings worth 150 GP and a Wand of Magic Missile**
+- We go into the room at the top of the stairs and find an Ogre Zombie that has its guts spilling out of it
+    - Gondorf Fire Bolts it and wakes it up
+    - We leave lol
+- We arrive at a large room with a waterfall
+    - No footprints here though, instead we find footprints going back towards the stairs and water room
+    - We follow the footprints back to the water room, then walk down a path of shallow water and circle back to the waterfall room
+    - We see footprints up some stairs in the room and follow it, seeing broken cobwebs throughout the hallway
+- We see a big room with rubble
+    - Tim sees a corpse buried in the rubble
+    - Akta sees a 9-foot tall statue of a dwarf on a throne, also now mostly rubble
+    - Meanwhile, Emiret opens a door to a room nearby and sees Nezznar sleeping soundly on a makeshift bed
+- We all sneak into the room and close the door
+    - Tim casts Faerie Fire on Nezznar to prevent him from going invisible
+    - <span style="color:red">Hildebrand shoots at him with the Poisonous Pistol, waking him up and initiating the fight</span>
+        - We quickly incapacitate him, then tie him up and **take his shoes, staff, and 280 GP**
+        - We light up a fire in the middle of the room and hold him up over the fire
+- We start interrogating him...
+    - He works for the drows and they're looking for "a home in the light" :(((
+    - We wanna feed him to the troll and he begs to just be allowed to return to his people
+    - Turns out he didn't make any deal with Iarno
+    - His family is "the drow he leads"
+    - He was just using the RBRs to mess up the town to make it easier to take over
+    - He wanted to make an example of a few citizens in Phandalin to drive them out so the drow could move in
+    - He just wanted to get the Rockseeker brothers to help him find the Forge
+    - We're gaslighting him into thinking he killed Iarno ???
+- We start dragging him to the Ogre Zombie
+    - He Misty Steps away from us
+    - We put a bag on his head
+- We notice a hallway in the direction he Misty Stepped in -- we instead go that way (with Nezznar), which leads to the Forge
+    - There's a water wheel with a 10-foot deep channel that has no water in it
+    - Corpses scattered around the room
+    - A floating green skull flies towards us and tells us to leave because his summoner said we can't pass
+        - Tells us this is the Smelter's Cavern and implies the forge is here
+        - We try to offer Nezznar but apparently his master doesn't need any more corpses; he shows us the zombies and threatens us with them
+        - We start to leave and he says wants us to leave Nezznar, but we insist he can only have him if we can pass; he agrees and lets us leave with Nezznar
+        - We then realize we can manipulate the skull -- Gondorf lies about having an appointment with his master in order to enter
+    - We meet up with the master, who's a wraith
+        - We offer Nezznar, saying Nezznar intended to destroy the Forge and we killed him to prevent him from doing so
+        - The wraith drains the life from Nezznar and turns him into a specter
+        - He asks if we're a part of the Phandelver's Pact, and we say who don't know what it is, so he goes into a rant... 
+            - He used to be a human mage who ran WEC
+            - The Orcs came and attacked, destroying the WEC and Phandalin
+            - His spirit remains here, waiting for the successor of the cave -- his last name is Rockseeker
+        - Emiret emphasizes that Nezznar was going to destroy the Rockseekers, and we killed him to prevent that
+        - **He offers us an enchanted flame to feed to Gundren (it will survive for 12 hours) and then we give Gundren to him**
+- Nezznar-Ghost leads us out, also leading us through a large room of skeletons with tables
+
+<span style="color:red"></span>
