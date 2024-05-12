@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1714897567105,
-      "created": 1714897567105,
+      "updated": 1715495428180,
+      "created": 1715495428180,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -59,12 +59,12 @@
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "wh0tjc733o0zvtkcrjc06xb"
+        "1tp5xyntgpik3vi84sb8ysj"
       ],
       "parent": null,
       "data": {}
     },
-    "wh0tjc733o0zvtkcrjc06xb": {
+    "1tp5xyntgpik3vi84sb8ysj": {
       "fname": "Dimensional Mercenary",
       "stub": true,
       "vault": {
@@ -74,9 +74,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1714879875973,
-      "created": 1714879875973,
-      "id": "wh0tjc733o0zvtkcrjc06xb",
+      "updated": 1715484583910,
+      "created": 1715484583910,
+      "id": "1tp5xyntgpik3vi84sb8ysj",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -91,7 +91,7 @@
       "id": "ad5d789p1z8uu223odqx63k",
       "title": "Lost Mine of Phandelver",
       "desc": "",
-      "updated": 1714897493975,
+      "updated": 1715495317219,
       "created": 1709602797352,
       "custom": {},
       "fname": "Dimensional Mercenary.Lost Mine of Phandelver",
@@ -101,7 +101,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "c5196963c0826ea0064e9bd236fbef12",
+      "contentHash": "4c65c6531cec5dfddd26857f98695efd",
       "links": [],
       "anchors": {
         "legend": {
@@ -247,10 +247,26 @@
           "line": 341,
           "column": 0,
           "depth": 2
+        },
+        "arriving-back-at-stonehill-inn": {
+          "type": "header",
+          "text": "Arriving back at Stonehill Inn",
+          "value": "arriving-back-at-stonehill-inn",
+          "line": 431,
+          "column": 0,
+          "depth": 2
+        },
+        "heading-back-to-wave-echo-cave": {
+          "type": "header",
+          "text": "Heading back to Wave Echo Cave",
+          "value": "heading-back-to-wave-echo-cave",
+          "line": 448,
+          "column": 0,
+          "depth": 2
         }
       },
       "children": [],
-      "parent": "wh0tjc733o0zvtkcrjc06xb",
+      "parent": "1tp5xyntgpik3vi84sb8ysj",
       "data": {}
     },
     "c1bs7wsjfbhb0zipaywqv1": {
@@ -470,7 +486,7 @@
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "wh0tjc733o0zvtkcrjc06xb"
+        "1tp5xyntgpik3vi84sb8ysj"
       ],
       "parent": null,
       "data": {},
@@ -516,7 +532,7 @@
     },
     "children": [
       "c1bs7wsjfbhb0zipaywqv1",
-      "wh0tjc733o0zvtkcrjc06xb"
+      "1tp5xyntgpik3vi84sb8ysj"
     ],
     "parent": null,
     "data": {},

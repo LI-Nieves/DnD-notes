@@ -411,7 +411,7 @@
         - We try to offer Nezznar but apparently his master doesn't need any more corpses; he shows us the zombies and threatens us with them
         - We start to leave and he says wants us to leave Nezznar, but we insist he can only have him if we can pass; he agrees and lets us leave with Nezznar
         - We then realize we can manipulate the skull -- Gondorf lies about having an appointment with his master in order to enter
-    - We meet up with the master, who's a wraith
+    - We meet up with the master, who's a wraith named Mormesk
         - We offer Nezznar, saying Nezznar intended to destroy the Forge and we killed him to prevent him from doing so
         - The wraith drains the life from Nezznar and turns him into a specter
         - He asks if we're a part of the Phandelver's Pact, and we say who don't know what it is, so he goes into a rant... 
@@ -421,5 +421,36 @@
         - Emiret emphasizes that Nezznar was going to destroy the Rockseekers, and we killed him to prevent that
         - **He offers us an enchanted flame to feed to Gundren (it will survive for 12 hours) and then we give Gundren to him**
 - Nezznar-Ghost leads us out, also leading us through a large room of skeletons with tables
+
+## Arriving back at Stonehill Inn
+- Emiret stuffs the flame into (an unconscious) Gundren's mouth; he bursts into flames but it looks like it's improving his body
+    - He wakes up, angry and confused, asking where "she" is
+    - Emiret tells him we found his ancestor in WEC
+    -   He's confused about who we are, how we found WEC, and his ancestor
+- Gundren runs downstairs and is greeted by Nundro, Sildar, and us
+    - We tell him about Nezznar
+    - Nundro fills him in about everything that happened (except Tharden's death) and Gundren yells at him
+- Gundren reveals that Elena got them kidnapped; we all head to Barthen's Provisions
+    - Apparently she paid the goblins to kidnap him and she also tortured him for information
+    - She wasn't there, so we just headed back to the Stonehill Inn
+- Gundren tells us what he wants to do with WEC...
+    - He found a map of the cave, and where it was, in his hosue
+    - He needed our help clearing the cave and building it back up
+    - We try asking him about Iarno... Of course, he doesn't know where he is
+- *We Long Rest at the Stonehill Inn*
+
+## Heading back to Wave Echo Cave
+- We first bury Tharden
+    - Gundren offers one of Tharden's items to Gondorf: a large cloth (he won't tell us what it is)
+- We start to explore the cave
+- <span style="color:red">Emiret runs into some ghouls... They attack her</span>
+    - Tim joins this combat
+- <span style="color:red">The others run into an Ochre Jelly and get attacked</span>
+- We defeat them in both combats
+- We continue to explore the many rooms of WEC...
+    - Found a pickaxe
+    - Found a place we can rest
+    - Found a skeleton of a large ogre
+    - <span style="color:red">Akta and Jarvani fight two ghouls that were munching on stuff</span>
 
 <span style="color:red"></span>
