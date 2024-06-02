@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1715495428180,
-      "created": 1715495428180,
+      "updated": 1717312898687,
+      "created": 1717312898687,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -59,12 +59,12 @@
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "1tp5xyntgpik3vi84sb8ysj"
+        "zt588j8id1iicidxivejv9s"
       ],
       "parent": null,
       "data": {}
     },
-    "1tp5xyntgpik3vi84sb8ysj": {
+    "zt588j8id1iicidxivejv9s": {
       "fname": "Dimensional Mercenary",
       "stub": true,
       "vault": {
@@ -74,9 +74,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1715484583910,
-      "created": 1715484583910,
-      "id": "1tp5xyntgpik3vi84sb8ysj",
+      "updated": 1717298870196,
+      "created": 1717298870196,
+      "id": "zt588j8id1iicidxivejv9s",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -91,7 +91,7 @@
       "id": "ad5d789p1z8uu223odqx63k",
       "title": "Lost Mine of Phandelver",
       "desc": "",
-      "updated": 1715495317219,
+      "updated": 1717312865026,
       "created": 1709602797352,
       "custom": {},
       "fname": "Dimensional Mercenary.Lost Mine of Phandelver",
@@ -101,7 +101,7 @@
         "selfContained": true,
         "name": "Dendron-DnD"
       },
-      "contentHash": "4c65c6531cec5dfddd26857f98695efd",
+      "contentHash": "572b2476892e6979f620f53d8e74ad90",
       "links": [],
       "anchors": {
         "legend": {
@@ -263,10 +263,18 @@
           "line": 448,
           "column": 0,
           "depth": 2
+        },
+        "back-to-sildar-and-korvak-in-phandalin": {
+          "type": "header",
+          "text": "Back to Sildar and Korvak in Phandalin",
+          "value": "back-to-sildar-and-korvak-in-phandalin",
+          "line": 488,
+          "column": 0,
+          "depth": 2
         }
       },
       "children": [],
-      "parent": "1tp5xyntgpik3vi84sb8ysj",
+      "parent": "zt588j8id1iicidxivejv9s",
       "data": {}
     },
     "c1bs7wsjfbhb0zipaywqv1": {
@@ -486,7 +494,7 @@
       },
       "children": [
         "c1bs7wsjfbhb0zipaywqv1",
-        "1tp5xyntgpik3vi84sb8ysj"
+        "zt588j8id1iicidxivejv9s"
       ],
       "parent": null,
       "data": {},
@@ -532,7 +540,7 @@
     },
     "children": [
       "c1bs7wsjfbhb0zipaywqv1",
-      "1tp5xyntgpik3vi84sb8ysj"
+      "zt588j8id1iicidxivejv9s"
     ],
     "parent": null,
     "data": {},

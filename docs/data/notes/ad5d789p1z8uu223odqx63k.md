@@ -24,7 +24,7 @@
 - EXP: varies
 
 ## Introduction
-- **Korvac summoned us**
+- **Korvak summoned us**
 - We're supposed to be delivering supplies to Phandalin, a town 3 days away
     - We'll be meeting with someone who will tell us the main quest
 
@@ -33,7 +33,7 @@
     - <span style="color:red">Goblin fight</span>
         - We take the last goblin and tie him up, so we can ask it about Gundren and Sildar
         - The Goblin points us in a direction, and *we Short Rest* before going there
-- We go in the direction, towards Cragmaw Cave, leaving Korvac behind
+- We go in the direction, towards Cragmaw Cave, leaving Korvak behind
 
 ## Cragmaw Cave
 - We see remnants of a cart, deducing that Gundren and Sildar were here
@@ -62,7 +62,7 @@
         - Gundren may have been abducted for this knowledge
     - She also recommends we talk to Iarno, the townmaster who helped established the town
 - We go to Stone Hill Inn
-    - Sildar and Korvac pay for our rooms
+    - Sildar and Korvak pay for our rooms
     - A patron at the inn says that Iarno is nice and the Redbrand Ruffians (RBRs) have been terrorizing the townspeople
     - <span style="color:red">We fight some RBRs in the Inn and beat them</span>
         - We ask the last guy who he's working for
@@ -217,7 +217,7 @@
         - **We slay Venomfang!**
 - Since we slayed Venomfang, we were told where WEC is
     - *Everyone* now knows where it is, including Iarno
-    - Technically, we don't need to save Gundren anymore, we can just go straight to WEC, since our summoner is Korvac
+    - Technically, we don't need to save Gundren anymore, we can just go straight to WEC, since our summoner is Korvak
     - We decide to go to Connyberry first
 
 ## Connyberry
@@ -250,7 +250,7 @@
     - **We get to keep the 5000 GP crown and Mirna, yay :)**
 
 ## Return to Phandalin
-- Korvac wants to save Gundren before going to WEC, but Sildar doesn't care about him anymore
+- Korvak wants to save Gundren before going to WEC, but Sildar doesn't care about him anymore
 - Tim convinces them to save Gundren by saying Gundren will give them the riches from WEC
 - Before heading to Cragmaw Castle, we go to see Iarno
     - Thanks us for helping with the dragon, offers us stuff in exchange for our services
@@ -452,5 +452,40 @@
     - Found a place we can rest
     - Found a skeleton of a large ogre
     - <span style="color:red">Akta and Jarvani fight two ghouls that were munching on stuff</span>
+- We continue to explore...
+    - We see the door to Mormesk is blocked by a large zombie
+        - Gundren shouts "MORMESK!" but the zombie continues to sleep
+        - Mormesk eventually goes up to the zombie and shoves it away, so it moves
+    - <span style="color:red">Nearby, an octopus pops out of a body of water and grabs Hildebrand, and we eventually kill it</span>
+- We give Gundren to Mormesk
+    - Gundren is set on fire, Nundren tries to save him but is also set on fire
+    - <span style="color:red">Mormesk also sets Emiret on fire</span>
+        - For some reason, in the meantime, Akta tries to use his pickaxe to dig out the minerals from the wall, but he instead shatters it
+        - We eventually defeat Mormesk, the floating green skull, and Nezznar-Ghost
+        - After defeating him, we notice the brazier is afire; this is the Forge of Spells that can currently only enchant one weapon
+            - We dip Akta's Greataxe in there to enchant it
+- We continue to explore
+    - We find a room and open a chest, finding 277/6 people GP in total
+- We continue to try mining
+    - Tim mines off pieces of emerald, worth...
+        - 25 GP, and 
+        - 300 GP, and
+        - 25 GP, and
+        - 75 GP
+    - The others mine stuff, too
+- Akta climbs over the emerald to discover the room it's blocking
+    - The fungi inside start to produce smoke filling up the room
+    - Hildebrand, Emerit, Gondorf go there too
+- Akta retrieves a glaive in the boss's room and a diamond in another room
+- We decide to leave the cave
+
+## Back to Sildar and Korvak in Phandalin
+- We tell them that we dropped Gundren and Nundro off at the ancestor, who we described as a human wizard (and this made him suspicious, because Gundren is a dwarf...)
+- Apparently, Elena and her daughter have disappeared
+    - We also try gaslighting them into thinking that Elena tried to have someone pose as the ancestor to lure Gundren and Nundro there to kill them, since she's supposed to be the next successor of the cave
+- Apparently, Mormesk is supposed to be the one to oversee the cave
+- Sildar is the new mayor of the town, but he's unsure of his skills
+- Overall, Korvak believes Gundren and Nundro are still in the cave so he'll go look for them
+- ** KORVAC CRUSHES THE SUMMONING STONE, ALLOWING US TO GO HOME **
 
 <span style="color:red"></span>
