@@ -2,7 +2,7 @@
 id: ad5d789p1z8uu223odqx63k
 title: Lost Mine of Phandelver
 desc: ''
-updated: 1717312865026
+updated: 1717314757471
 created: 1709602797352
 ---
 
@@ -462,11 +462,11 @@ created: 1709602797352
 - We continue to explore...
     - We see the door to Mormesk is blocked by a large zombie
         - Gundren shouts "MORMESK!" but the zombie continues to sleep
-        - Mormesk eventually goes up to the zombie and shoves it away, so it moves
+        - The floating green skull eventually goes up to the zombie and shoves it away, so it moves
     - <span style="color:red">Nearby, an octopus pops out of a body of water and grabs Hildebrand, and we eventually kill it</span>
 - We give Gundren to Mormesk
     - Gundren is set on fire, Nundren tries to save him but is also set on fire
-    - <span style="color:red">Mormesk also sets Emiret on fire</span>
+    - <span style="color:red">Nezznar also sets Emiret on fire</span>
         - For some reason, in the meantime, Akta tries to use his pickaxe to dig out the minerals from the wall, but he instead shatters it
         - We eventually defeat Mormesk, the floating green skull, and Nezznar-Ghost
         - After defeating him, we notice the brazier is afire; this is the Forge of Spells that can currently only enchant one weapon
@@ -483,7 +483,7 @@ created: 1709602797352
 - Akta climbs over the emerald to discover the room it's blocking
     - The fungi inside start to produce smoke filling up the room
     - Hildebrand, Emerit, Gondorf go there too
-- Akta retrieves a glaive in the boss's room and a diamond in another room
+- Akta retrieves a glaive in the boss's room and a diamond (worth 5000 GP) in another room
 - We decide to leave the cave
 
 ## Back to Sildar and Korvak in Phandalin
